@@ -1,0 +1,198 @@
+order_date,type,price,exclude
+9/7/2023,eggs,13.11,t
+,milk,5.78,
+,kimchi,8.19,t
+,spinach,14.73,t
+,broc,6,t
+,rot chicken,5.46,t
+,meat,59.32,t
+,water,4.36,
+,yogurt,17.48,
+,tub yogurt,6.55,a;k;t;h
+,fruit,16.39,t
+,dish spray,10.92,
+,parchment,14.2,
+,tray,16.17,t
+,seaweed,25.12,t
+,meat,62.39,t
+,meat,45.48,t
+,meat,37.16,t
+,tip,36.88,
+,tax,2.57,
+,service,7.01,
+9/7/2023,tortilla,6.19,j;h;t
+,cheese,8.28,t
+,cheese,10.78,t
+,bag fee tf?,0.05,t;h
+,delivery fee,7.99,t;h
+,tip,2.52,t;h
+,service fee,2.49,t;h
+9/14/2023,meat,42.07,t
+,milk,5.78,
+,yogurt,34.96,
+,seaweed,25.12,t
+,meat,91.79,t
+,honey,13.65,t
+,broc,18,t
+,tip,11.57,
+,service fee,4.4,
+9/21/2023,water,6.55,
+,milk,5.78,
+,yogurt,17.48,
+,tub yogurt,6.55,a;k;t;h
+,seaweed,18.56,t
+,kimchi,8.19,t
+,meat,55.74,t
+,meat,28.81,t
+,truffle hot sauce,16.39,t;h
+,soy sauce,7.1,t
+,broc,18,t
+,banana,1.63,
+,cookie,12.01,
+,tip,10.14,
+,service fee,3.85,
+9/29/2023,meat,45.84,t
+,milk,5.78,
+,yogurt,17.48,
+,eggs,13.11,t
+,seaweed,9.28,t
+,meat,39.12,t
+,meat,25.01,t
+,ketchup,14.2,
+,rice,14.75,t
+,broc,6,t
+,tip,9.53,
+,service fee,3.62,
+10/5/2023,oats,15.08,t;h
+,yogurt,17.48,
+,kimchi,8.19,t
+,burrata cheese,8.3,a;k;t;h
+,seaweed,12.56,t
+,choc chips,13.11,t
+,meat,26.46,t
+,fudge bars,13.11,t
+,avocado oil spray,14.2,t
+,banana,3.26,
+,tip,6.59,
+,service fee,2.5,
+10/9/2023,towels,19.45,
+,tray,16.17,t
+,toilet paper,21.31,
+,tax,3.43,
+,tip,2.85,
+,service fee,1.08,
+10/14/2023,cheese,14.53,t
+,yogurt,17.48,
+,meat,57.35,t;h
+,tip,4.47,
+,service fee,1.7,
+10/16/2023,lipton tea,10.92,a;k;t;h
+,instant coffee,12.56,a;k;t;h
+,milk,2.91,
+,vitamins,12.56,a;k;t;h
+,honey,13.65,t
+,tax,0.79,
+,tip,2.63,
+,service fee,1,
+10/20/2023,meat,46.64,t
+,febreeze,10.92,
+,yogurt,17.48,t
+,turkey bacon,23.16,t
+,panko chicken,14.86,t;h
+,fruit,12.01,t
+,crab cakes,28.41,t;h
+,meat,27.69,t
+,broc,12,t
+,banana,1.63,
+,tax,0.68,
+,tip,9.74,
+,service fee,3.7,
+10/28/2023,meat,50.45,a;k;t;h
+,paper plate,18.57,
+,milk,2.91,
+,yogurt,17.48,
+,eggs,13.11,t
+,panko chicken,14.86,t;h
+,fries,12.01,t;h
+,meat,21.45,t
+,garbage bags,18.57,
+,flushable wipes,16.39,k
+,broc,6,t
+,tax,3.31,
+,tip,9.59,
+,service fee,3.64,
+10/29/2023,lime juice,1.19,t
+,curry mix,13.56,a;k;t;h
+,olive oil,5.99,t
+,crushed red pepper,1.22,t
+,peppers,2.49,a;k;t;h
+,mushrooms,2.49,a;k;t;h
+,cilantro,3.18,a;k;t;h
+,shallots,1.89,a;k;t;h
+,parsley,2.44,a;k;t;h
+,tip,2,a;k;t;h
+,service fee,2.49,a;k;t;h
+,priority fee,2,a;k;t;h
+11/3/2023,yogurt,17.48,
+,panko chicken,14.86,t;h
+,fries,12.01,t;h
+,meat,56.21,t
+,broc,12,t
+,tomatoes,4.91,t
+,onions,4.91,t
+,cucumbers,6.55,t
+,tip,6.45,
+,service fee,2.45,
+11/5/2023,halo top,6.99,a;k;t;h
+,halo top,6.99,a;k;t;h
+,pizza rolls,5.89,j;t;h
+,breyers ice cream,5.99,j;a;k;t
+,feastables,7.48,a;k;t;h
+,bag fee tf?,0.05,t
+,tip,2,t
+,service fee,2.49,t
+,priority fee,2,t
+11/8/2023,chicken strips,16.39,t;h
+,eggs,13.11,t
+,cheese,14.53,t
+,meat,41.28,t;h
+,meat,37.31,t
+,lemon juice,6.33,t
+,soy sauce,7.1,t
+,oyster sauce,9.61,t
+,cucumbers,13.1,t;h
+,broc,12,t
+,chinese sausage,15.18,t;h
+,tip,9.66,t
+,service fee,3.67,t
+11/27/2023,meat,26.16,t;h
+,eggs,8.63,t
+,yogurt,34.96,
+,turkey bacon,16.39,t;h
+,panko chicken,20.32,t;h
+,rice,19.67,j;a;h
+,broc,12,t;h
+,tip,6.91,
+,service fee,2.62,
+12/3/2023,naan,13.1,a;k;t;h
+,guacamole,15.29,a;k;t;h
+,chicken strips,16.39,t;h
+,meat,25.28,t;h
+,meat,21.81,t;h
+,mushrooms,6.55,t;h
+,broc,6,t
+,tip,5.22,t
+,service fee,1.98,t
+12/1/2023,plantain chips,10,a;k;j;h
+12/7/2023,chicken strips,16.39,a;k;t;h
+,broc,6,t;h
+,protein powder,69.96,a;j;t;h
+,panko chicken,20.32,j;t;h
+,guacamole,15.29,a;k;t;h
+,tip,6.4,t;h
+,service fee,2.43,t;h
+12/10/2023,eggs,3.49,t;h
+,chicken strips,16.39,a;k;t;h
+,shrimp wonton ramen,18.25,a;k;t;h
+,tip,2,t;h
+,service fee,0.72,t;h
